@@ -1,0 +1,124 @@
+/* Fondo común para todas las diapositivas */
+.compact-list {
+  font-size: 0.75em;
+  line-height: 0.9;
+}
+
+.compact-list p {
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+}
+
+.slidev-layout {
+  position: relative;
+  color: #243b53;
+}
+
+.slidev-layout::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url('https://apiivm01.etsii.upm.es/~jordieres/T01/images/Designer.png');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.32;
+  z-index: -1;
+}
+
+.slidev-layout.default{
+  padding:0;
+}
+
+/* Títulos */
+
+.slidev-layout h1,
+.slidev-layout h2,
+.slidev-layout h3 {
+  color: #102a43;
+  font-weight: 600;
+}
+
+/* Texto normal */
+
+.slidev-layout p,
+.slidev-layout li {
+  color: #243b53;
+}
+
+/* Notas y referencias */
+
+.footnote {
+  font-size: 0.45em;
+  color: #666;
+}
+
+/* Listas más compactas */
+
+.small-bullets {
+  font-size: 0.8em;
+}
+
+.tiny-bullets {
+  font-size: 0.7em;
+}
+
+/* Espaciados verticales */
+
+.vspace-sm {
+  height: 0.5rem;
+}
+
+.vspace-md {
+  height: 1rem;
+}
+
+.vspace-lg {
+  height: 2rem;
+}
+
+/* Mermaid */
+
+.mindmap-large svg {
+  transform: scale(1.45);
+  transform-origin: top center;
+}
+
+.mindmap-medium svg {
+  transform: scale(1.2);
+  transform-origin: top center;
+}
+
+/* Centrado */
+
+.center {
+  text-align: center;
+}
+
+/* Imágenes */
+
+img {
+  max-width: 100%;
+}
+
+.download-card {
+  padding: 1rem;
+  /* background: white; */
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.1);
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  background: #009fe3;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.download-btn:hover {
+  background: #0077aa;
+}
+
+
