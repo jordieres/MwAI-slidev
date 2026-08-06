@@ -1,11 +1,15 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Welcome to the Management with AI slides 
 
-To start the slide show:
+These slides have been created with [Slidev](https://github.com/slidevjs/slidev)!
+
+If you are interested in HTML slides technology just learn more about Slidev at the [documentation](https://sli.dev/).
+
+To start the journey show download the content and try:
 
 - `pnpm install`
-- `pnpm run dev`
+- `pnpm run all`
 - visit <http://localhost:3030>
 
-Edit the [slides.md](./slides.md) to see the changes.
+Feel free to make changes at your entire risk, and enjoy it!
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+
