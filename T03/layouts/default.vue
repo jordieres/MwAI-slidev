@@ -59,7 +59,7 @@ const title = computed(() =>
   text-align: center;
 
   color: white;
-  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  font-family: "Segoe UI", Arial, sans-serif;
   font-size: 1.45rem;
   font-weight: 600;
   letter-spacing: 0.03em;

@@ -18,10 +18,10 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url('https://apiivm01.etsii.upm.es/~jordieres/T01/images/Designer.png');
+  background-image: url('https://apiivm01.etsii.upm.es/~jordieres/T01/images/Designer_02.png');
   background-size: cover;
   background-position: center;
-  opacity: 0.32;
+  opacity: 0.82;
   z-index: -1;
 }
 
