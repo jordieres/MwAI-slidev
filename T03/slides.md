@@ -8,7 +8,7 @@ background: ./images/Designer.png  # https://cover.sli.dev
 title: Managing with Artificial Intelligence
 info: |
   # Master in Organizational Engineering
-  Academic Year 2026-27 (https://apiivm01.etsii.upm.es/~jordieres/T02/)
+  Academic Year 2026-27 (https://apiivm01.etsii.upm.es/~jordieres/T03/)
 # apply UnoCSS classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
