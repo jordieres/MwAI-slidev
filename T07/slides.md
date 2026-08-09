@@ -379,7 +379,9 @@ backgroundSize: cover
 
 ### Additional Notes.
 
-A portfolio that violates mandatory constraints should fail the feasibility gate regardless of its headline financial value.
+- A portfolio that violates mandatory constraints should fail the feasibility gate regardless of its headline financial value.
+- Investment analysis is not about identifying the project with the largest number. It is about allocating scarce resources across competing opportunities while managing dependencies, uncertainty, strategic value and future flexibility.
+- Use AI to expand the set of alternatives you can analyse and not to outsource the investment decision.
 
 
 <style>
