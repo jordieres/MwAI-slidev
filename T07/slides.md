@@ -34,7 +34,7 @@ duration: 35min
 
 # Course Management with AI
 
-## Challenge 02: Planning, Scheduling and Resource Allocation
+## Challenge 03: Which Projects Should the Company Fund?
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="grey op-10">
   Press Space for next page <carbon:arrow-right />
