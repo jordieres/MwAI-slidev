@@ -34,7 +34,7 @@ duration: 35min
 
 # Course Management with AI
 
-## Challenge 04: Design a Viable Digital Health Service for Chronic-Care Management
+## Challenge 05: Design a Viable Digital Health Service for Chronic-Care Management
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="grey op-10">
   Press Space for next page <carbon:arrow-right />
@@ -66,6 +66,7 @@ backgroundSize: cover
 <!-- <div style="font-size:0.2em"> -->
 
 ### Management context
+
 
 MedNova Health Network is a regional provider managing approximately 3,200 patients with multiple sclerosis. 
 The management question is:
