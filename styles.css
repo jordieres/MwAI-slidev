@@ -121,4 +121,20 @@ img {
   background: #0077aa;
 }
 
+/* styles/slides.css */
+.text-xs {
+  font-size: 0.75rem; /* Equivalente a 12px aproximadamente */
+  line-height: 1rem;
+}
 
+/* Opcional: Si quieres aplicarlo de manera específica a todas las tablas dentro de un contenedor .text-xs */
+table {
+  font-size: 0.5rem;
+    line-height: 0.6rem;
+}
+
+table th,
+table td {
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+}
