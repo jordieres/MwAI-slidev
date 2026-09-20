@@ -15,6 +15,7 @@
     "t09": "slidev T09/slides.md",
     "t11": "slidev T11/slides.md",
     "t01a": "slidev T01a/slides.md",
+    "t01b": "slidev T01b/slides.md",    
     "build:slidev": "slidev build SLV/slides.md --base /~jordieres/SLV --out /home/jordieres/public_html/slidev",
     "build:t00": "slidev build T00/slides.md --base /~jordieres/T00 --out /home/jordieres/public_html/T00",
     "build:t01": "slidev build T01/slides.md --base /~jordieres/T01 --out /home/jordieres/public_html/T01",
@@ -24,7 +25,8 @@
     "build:t07": "slidev build T07/slides.md --base /~jordieres/T07 --out /home/jordieres/public_html/T07",
     "build:t09": "slidev build T09/slides.md --base /~jordieres/T09 --out /home/jordieres/public_html/T09",
     "build:t11": "slidev build T11/slides.md --base /~jordieres/T11 --out /home/jordieres/public_html/T11",
-    "build:t01a": "slidev build T01a/slides.md --base /~jordieres/T01a --out /home/jordieres/public_html/T01a"
+    "build:t01a": "slidev build T01a/slides.md --base /~jordieres/T01a --out /home/jordieres/public_html/T01a",
+    "build:t01b": "slidev build T01b/slides.md --base /~jordieres/T01b --out /home/jordieres/public_html/T01b"
   },
   "devDependencies": {
     "@slidev/cli": "^52.18.1",
