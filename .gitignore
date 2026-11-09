@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+T05c/extra_private/ 
+T06/extra_private/

@@ -1,0 +1,50 @@
+/* T06 global styles (Slidev loads style.css for every slide) */
+
+.slidev-layout,
+.slidev-layout h1,
+.slidev-layout h2,
+.slidev-layout h3 {
+  color: black;
+}
+.slidev-layout { font-size: 0.84rem; }
+.slidev-layout h3 { font-size: 1.28rem; line-height: 1.1; margin: 0 0 0.45rem 0; }
+table { font-size: 0.68rem; line-height: 1.05; margin-top: 0.25rem; }
+th, td { padding: 0.16rem 0.32rem; }
+.small { font-size: 0.68rem; }
+.tiny { font-size: 0.60rem; }
+.box {
+  border: 1px solid #9ca3af;
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: rgba(255,255,255,0.82);
+}
+.flow {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+  align-items: stretch;
+}
+.role-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 16px;
+}
+.three-cols {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px 14px;
+}
+pre { font-size: 0.62rem !important; line-height: 1.15 !important; }
+
+.slidev-layout .box p { margin: 0.2rem 0; }
+.slidev-layout li { line-height: 1.25; }
+.slidev-layout ul { margin-top: 0.2rem; }
+.slidev-layout .download-card { padding: 0.6rem 0.8rem; background: rgba(255,255,255,0.85); border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,.1); }
+.slidev-layout .download-card h4 { margin: 0 0 0.3rem 0; }
+.slidev-layout .download-card p { margin: 0.2rem 0; }
+
+/* keep content clear of the UPM banner in the two-column layout */
+.slidev-layout.two-cols { padding-top: 0 !important; }
+.slidev-layout .two-cols-content { padding-top: 100px; }
+.slidev-layout .default-content { padding-top: 100px; }
+.slidev-layout table { font-size: 0.74rem; line-height: 1.2; }
